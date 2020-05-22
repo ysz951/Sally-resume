@@ -1,0 +1,11 @@
+body{
+  background-color:antiquewhite;
+}
+
+.container{
+  color: rgb(61, 70, 68);
+}
+
+.container img{
+  width: 100px;
+}
